@@ -1,0 +1,3 @@
+[submodule "custom/darknet"]
+	path = custom/darknet
+	url = git@github.com:shantanugoel/darknet.git
